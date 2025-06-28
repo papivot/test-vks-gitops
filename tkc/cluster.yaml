@@ -15,7 +15,7 @@ spec:
   topology:
     class: builtin-generic-v3.1.0
 #   version: v1.31.1---vmware.2-fips-vkr.2
-    version: v1.31.1+vmware.2-fips-vkr.2
+    version: v1.30.11---vmware.1-fips-vkr.2
     controlPlane:
 #      machineHealthCheck:
 #        enable: true
