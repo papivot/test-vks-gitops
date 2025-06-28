@@ -134,7 +134,7 @@ spec:
           name: kubelet
           storageClass: tanzu
       - name: ntp
-        value: time.google.com
+        value: 10.89.0.13
       - name: podSecurityStandard
         value:
           audit: restricted
